@@ -6,5 +6,5 @@ import (
 
 func main() {
 	c := color.New(color.FgHiCyan)
-	c.Println("Hello world")
+	c.Println("VIVA A NARNIA,MONGOLO") 
 }
